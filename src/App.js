@@ -1,6 +1,6 @@
 import "./App.css"
 import "bootstrap/dist/css/bootstrap.min.css"
-import { Container, Row, Col } from "react-bootstrap"
+import { Row, Col } from "react-bootstrap"
 import { FaMapMarkerAlt } from "react-icons/fa"
 import { FaPhoneAlt } from "react-icons/fa"
 import { FaEnvelope } from "react-icons/fa"
@@ -15,7 +15,9 @@ function App() {
 				<Row>
 					<div className="left-side">
 						<Col>
-							<h2 className="talk-header">Lets Talk</h2>
+							<h2 className="talk-header">
+								<strong>Lets Talk</strong>
+							</h2>
 							<p>To request a quote or want to meet up for coffee</p>
 							<p>contact us directly or fill out the form and we will</p>
 							<p>get back to you promptly</p>
@@ -39,10 +41,10 @@ function App() {
 						</Col>
 					</div>
 					<Col>
-          <div className="image-div<<<<">
-						<img src="/images/mailbox.png" alt="mail"></img>
+						<div className="image-div">
+							<img src="/images/mailbox.png" alt="mail"></img>
 						</div>
-            <div className="right-side">
+						<div className="right-side">
 							<p>
 								<FaMapMarkerAlt className="svg-icons" /> 151 New Park Ave,
 								Hartford, CT 06106

@@ -15,17 +15,17 @@
 		linear-gradient(#fff, #fff) bottom/100% calc(100% - 100px),
 		linear-gradient(#fff, #fff) left / calc(100% - 60px) 100%;
 	background-repeat: no-repeat;
+	font-family: cursive;
+	color: #b2beb5;
 }
 
 .main-container {
-  margin-left: 20%;
-  
+	margin-left: 10%;
 }
 
 .talk-header {
-	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-	color: blueviolet;
+	font-family: cursive;
+	color: #7733ff;
 }
 
 .input-field {
@@ -60,31 +60,31 @@
 }
 
 .left-side {
-  margin-top: 4%;
+	margin-top: 4%;
 }
 
 img {
-  max-width: 50%;
-  max-height: 50%;
-  display: block;
-  margin: 0 auto;
+	max-width: 50%;
+	max-height: 50%;
+	display: block;
+	margin: 0 auto;
 }
 
-.right-side{
-  margin-left: 24%;
-  margin-top: 16%;
+.right-side {
+	margin-left: 24%;
+	margin-top: 7%;
 }
 
 .svg-icons {
-  color: #7733ff;
+	color: #7733ff;
 }
 
 .svg-icons2 {
-  color: #7733ff;
-  height: 7vmin;
-  width: 7vmin;
+	color: #7733ff;
+	height: 7vmin;
+	width: 7vmin;
 }
 
 .image-div {
-  margin-top: 8%;
+	margin-top: 8%;
 }
