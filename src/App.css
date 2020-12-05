@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+  
 .App {
 	margin-top: 2%;
 	margin-left: 5%;
@@ -5,7 +7,7 @@
 	height: 570px;
 	border-radius: 25px;
   background-color: white;
-	font-family: cursive;
+	font-family: "Poppins", sans-serif;
 	color: #b2beb5;
 }
 
@@ -15,25 +17,27 @@
 
 .talk-header {
 	font-family: cursive;
-	color: #7733ff;
+	color: #7b78f8;
 }
 
 .input-field {
 	border-radius: 50px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 50px;
-	background-color: whitesmoke;
+	background-color: #eee;
 	border: none;
-	outline: none;
+  outline: none;
+  
 }
 
 .input-field1 {
 	border-radius: 15px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 15px;
-	background-color: whitesmoke;
+	background-color: #eee;
 	border: none;
-	outline: none;
+  outline: none;
+  
 }
 
 .form-btn {
@@ -41,7 +45,7 @@
 	border-radius: 50px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 50px;
-	background-color: #7733ff;
+	background-color: #7b78f8;
 	height: 50px;
 	width: 200px;
 	color: whitesmoke;
@@ -62,15 +66,15 @@ img {
 
 .right-side {
 	margin-left: 24%;
-	margin-top: 7%;
+	margin-top: 2.4%;
 }
 
 .svg-icons {
-	color: #7733ff;
+	color: #7b78f8;
 }
 
 .svg-icons2 {
-	color: #7733ff;
+	color: #7b78f8;
 	height: 7vmin;
   width: 7vmin;
   margin-left: 19px;

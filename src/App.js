@@ -32,8 +32,8 @@ function App() {
 								<br></br>
 								<label for="Message">Your Message:</label>
 								<br></br>
-								<textarea rows="4" cols="50" className="input-field1">
-									Type something you want to send...
+								<textarea rows="4" cols="50" className="input-field1" placeholder="Type something you want to send...">
+									
 								</textarea>
 								<br></br>
 								<button className="form-btn">Send Message</button>
