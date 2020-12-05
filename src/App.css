@@ -4,17 +4,7 @@
 	width: 1200px;
 	height: 570px;
 	border-radius: 25px;
-	background: radial-gradient(100% 50% at top left, #fff 98%, transparent 100%)
-			top 0 right 0 /30px 50px,
-		radial-gradient(100% 50% at bottom right, transparent 98%, #fff 100%) top 0
-			right 30px/30px 50px,
-		radial-gradient(100% 50% at bottom left, #fff 98%, transparent 100%) top
-			50px right 0 /30px 50px,
-		radial-gradient(100% 50% at top right, transparent 98%, #fff 100%) top 50px
-			right 30px/30px 50px,
-		linear-gradient(#fff, #fff) bottom/100% calc(100% - 100px),
-		linear-gradient(#fff, #fff) left / calc(100% - 60px) 100%;
-	background-repeat: no-repeat;
+  background-color: white;
 	font-family: cursive;
 	color: #b2beb5;
 }
