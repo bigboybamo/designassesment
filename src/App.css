@@ -72,8 +72,9 @@ img {
 .svg-icons2 {
 	color: #7733ff;
 	height: 7vmin;
-	width: 7vmin;
-}
+  width: 7vmin;
+  margin-left: 19px;
+  }
 
 .image-div {
 	margin-top: 8%;
