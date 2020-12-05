@@ -18,7 +18,8 @@
 }
 
 .main-container {
-	margin-left: 20%;
+  margin-left: 20%;
+  
 }
 
 .talk-header {
@@ -46,7 +47,7 @@
 }
 
 .form-btn {
-	margin-top: 4%;
+	margin-top: 3%;
 	border-radius: 50px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 50px;
@@ -56,4 +57,34 @@
 	color: whitesmoke;
 	border: none;
 	outline: none;
+}
+
+.left-side {
+  margin-top: 4%;
+}
+
+img {
+  max-width: 50%;
+  max-height: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.right-side{
+  margin-left: 24%;
+  margin-top: 16%;
+}
+
+.svg-icons {
+  color: #7733ff;
+}
+
+.svg-icons2 {
+  color: #7733ff;
+  height: 7vmin;
+  width: 7vmin;
+}
+
+.image-div {
+  margin-top: 8%;
 }
